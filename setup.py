@@ -8,5 +8,5 @@ setup(
     author='Rajul Shakywar',
     author_email='shakyawar.r@gmail.com',
     packages=find_packages(),
-    python_requires='>=3.12',
+    python_requires='>=3.10',
 )
